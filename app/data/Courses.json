@@ -1,0 +1,66 @@
+[
+  {
+    name: 'Как достигать больших целей',
+    route: "Home",
+    image: require("../../assets/images/1.jpg"),
+    order: 1,
+    active: 0,
+    color: '#0c3d84' 
+  },
+  {
+    name: "Осознанность",
+    route: "MentorScreen",
+    image: require("../../assets/images/2.jpg"),
+    order: 1,
+    active: 0,
+    color: '#3dae58'
+  },
+  {
+    name: "Воля",
+    route: "Clan",
+    image: require("../../assets/images/3.jpg"),
+    order: 0,
+    active: 1,
+    color: '#b27044'
+
+  },
+  {
+    name: "Преодоление страхов",
+    route: "OlimpScreen",
+    image: require("../../assets/images/4.jpg"),
+    order: 0,
+    active: 0,
+    color: '2b9da7',
+    progress: true
+  },
+  {
+    name: "Любовь к себе",
+    route: "",
+    image: require("../../assets/images/5.jpg"),
+    order: 0,
+    color: '#af467e',
+    active: 0
+  },
+  {
+    name: "Уверенность",
+    route: "",
+    image: require("../../assets/images/6.jpg"),
+    order: 0,
+    color: '#b05656',
+    active: 0
+  },
+  {
+    name: "Колесо сансары",
+    route: "",
+    image: require("../../assets/images/7.jpg"),
+    order: 0,
+    active: 0
+  },
+  {
+    name: "Энергия",
+    route: "",
+    image: require("../../assets/images/8.jpg"),
+    order: 0,
+    active: 0
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    name: "Мудрость",
+    route: "Wisdom",
+    icon: "o-favorite"
+  },
+  {
+    name: "Находки",
+    route: "Trove",
+    icon: "o-lego"
+  }
+]

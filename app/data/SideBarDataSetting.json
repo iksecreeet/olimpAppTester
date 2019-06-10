@@ -1,0 +1,22 @@
+[
+   {
+    name: "Поделиться",
+    route: "Rules",
+    icon: "o-share"
+  },
+  {
+    name: "Правила игры",
+    route: "Rules",
+    icon: "o-rules"
+  },
+  {
+    name: "Настройки",
+    route: "Settings",
+    icon: "o-settings"
+  },
+  {
+    name: "Идея или проблема",
+    route: "Ideas",
+    icon: "o_mail"
+  }
+]

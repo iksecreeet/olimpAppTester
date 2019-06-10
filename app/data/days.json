@@ -1,0 +1,59 @@
+[
+  {
+    name: '1 день',
+    completed: 0,
+  },
+  {
+    name: '2 день',
+    completed: 0,
+  },
+  {
+    name: '3 день',
+    completed: 0,
+
+  },
+  {
+    name: '4 день',
+    completed: 0,
+  },
+  {
+    name: '5 день',
+    completed: 0,
+  },
+  {
+    name: '6 день',
+    completed: 0,
+  },
+  {
+    name: '7 день',
+    completed: 0,
+  },
+  {
+    name: '8 день',
+    completed: 0,
+  },
+   {
+    name: '9 день',
+    completed: 0,
+  },
+   {
+    name: '10 день',
+    completed: 0,
+  },
+   {
+    name: '11 день',
+    completed: 0,
+  },
+   {
+    name: '12 день',
+    completed: 0,
+  },
+   {
+    name: '13 день',
+    completed: 0,
+  },
+   {
+    name: '14 день',
+    completed: 0,
+  }
+];

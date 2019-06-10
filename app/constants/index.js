@@ -1,0 +1,7 @@
+// constants.js
+
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const FETCHING_COURSES = 'FETCHING_COURSES';
+export const FETCH_COURSES_SUCCESS = 'FETCH_COURSES_SUCCESS';
+export const FETCH_COURSES_FAILURE = 'FETCH_COURSES_FAILURE';
